@@ -1,0 +1,36 @@
+.header{
+    color: brown;
+    text-align: center;
+    font-family: serif;
+    text-shadow: 3px 3px gray;
+}
+body{
+    background-color: black;
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    color: gray;  
+}
+h2{
+    text-align: center;
+    color: brown;
+    font-family: 'Brush Script MT', cursive;
+    text-decoration: underline;
+}
+p{
+    text-indent: 50px;
+  
+}
+a:hover{
+    color: red;
+}
+img{
+    margin: 10px;
+}
+.Referensi{
+    font-family: serif;
+  
+}
+.aboutme{
+    font-family: serif;
+    
+}
